@@ -34,9 +34,10 @@
     "typescript": "^5"
   },
   "engines": {
-    "node": ">=18.0.0 <=22.x.x",
+    "node": "18.x",
     "npm": ">=6.0.0"
   },
+
   "strapi": {
     "uuid": "a0eb9790-e3da-4826-84db-8f2b7ba6cb00",
     "installId": "24a9b109b54ae304cf3d704bdb6304233da59ae0031a640468ef7c6dc637145c"
